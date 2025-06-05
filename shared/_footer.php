@@ -3,11 +3,11 @@
       <div class="row">
         <div class="col-md-4">
           <!-- Insert website logo -->
-          <img src="images/company-logo.jpg" alt="Website Logo">
+          <!-- <img src="images/company-logo.jpg" alt="Website Logo"> -->
           <!-- Display visitor count -->
-          <p>SCHOOL MANAGEMENT SYSTEM</p>
+          <p>Super School</p>
           <!-- Display time zone -->
-          <p>Q9P3+75H, My Town, My city, My Country </p>
+          <p>Dhaka, Bangladesh</p>
         </div>
         <div class="col-md-4">
           <p>Time Zone: <?php
@@ -31,7 +31,7 @@
       </div>
       <div class="row mt-4">
         <div class="col-md-12">
-          <p>&copy; <?php echo date('Y'); ?> By <a href="https://www.github.com/ProjectsAndPrograms" target="_blank">ProjectsAndPrograms</a>. All rights reserved.</p>
+          <p>&copy; All rights reserved <?php echo date('Y'); ?>.</p>
         </div>
       </div>
     </div>

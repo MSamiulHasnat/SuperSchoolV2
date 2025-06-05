@@ -2,10 +2,10 @@
   <div class="container">
     <div class="logo">
       <a href="./index.php">
-        <img src="./images/company-logo.jpg" alt="Logo" />
+        <!-- <img src="./images/company-logo.jpg" alt="Logo" /> -->
       </a>
       <a href="./index.php">
-        <h3>SCHOOL MANAGEMENT</h3>
+        <h3>Super School</h3>
       </a>
     </div>
 
